@@ -20,10 +20,16 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 User can create an account:
 ![](https://i.imgur.com/w536tim.gif)
+
+
 User can log in and User sees app icon in home screen and styled launch screen:
 ![](https://i.imgur.com/pDyILB8.gif)
+
+
 User can view the last 20 posts:
 ![](https://i.imgur.com/hmO7YfJ.gif)
+
+
 User can take a photo, add a caption, and post it to the server:
 ![](https://i.imgur.com/XQUb4qF.gif)
 
